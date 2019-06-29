@@ -1,0 +1,16 @@
+{
+    "name": "bmpenterprises/YOUR_APP",
+    "description": "",
+    "authors": [{
+        "name": "Brandon Paul",
+        "email": "brandon.p@accessitsoftware.com"
+    }],
+    "require": {
+      
+    },
+    "autoload": {
+        "psr-4": {
+            "ACME\\": "src/Acme/"
+        }
+    }
+}
