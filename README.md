@@ -1,2 +1,3 @@
-# my-php-template
+# SU Subscriptions Using PHP
 Composer-backed php template
+
